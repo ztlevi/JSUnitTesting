@@ -1,15 +1,12 @@
 {
-  "name": "unittesting",
+  "name": "jsunittesting",
   "version": "1.0.0",
   "description": "",
   "main": "sketch.js",
   "scripts": {
     "test": "jest"
   },
-  "keywords": [
-    "unit",
-    "testing"
-  ],
+  "keywords": ["unit", "testing"],
   "author": "Ting Zhou",
   "license": "MIT",
   "devDependencies": {
